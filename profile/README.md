@@ -6,8 +6,6 @@ An MCP server to enhance AI with historical and live data about Sumo wrestling.
 
 MCP URL: https://api.sumo-mcp.com/mcp
 
-Website: https://sumo-mcp.com
-
 ### Disclaimer
 
 I have absolutely no intention to monetize, make profits or appropriate
