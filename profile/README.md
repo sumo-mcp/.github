@@ -2,7 +2,8 @@
 
 ⚠️ Not live yet! Coming soon... ⚠️
 
-An MCP server to enhance AI with historical and live data about Sumo wrestling.
+A free MCP server to power AI chatbots with historical and live data to
+answer your tough questions as a fanatic sumo fan!
 
 MCP URL: https://api.sumo-mcp.com/mcp
 
